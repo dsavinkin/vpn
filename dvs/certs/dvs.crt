@@ -1,0 +1,84 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            94:d4:6c:bd:5b:f8:6d:98:3a:22:9f:f8:cb:e6:85:ce
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=savinkin.org
+        Validity
+            Not Before: Jul  8 18:13:47 2024 GMT
+            Not After : Oct 11 18:13:47 2026 GMT
+        Subject: CN=dvs
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c1:2d:31:1b:0b:ed:7d:63:60:c8:fb:fb:5d:79:
+                    0f:53:c1:62:ac:98:5f:b5:4f:dd:a5:34:da:b2:6d:
+                    32:d2:aa:31:db:53:2d:8e:2f:4e:55:2f:14:82:ca:
+                    72:59:97:1b:84:50:75:e4:52:47:4b:2b:2a:7c:19:
+                    9b:7f:34:b2:2d:e4:ad:78:1d:b4:ed:41:69:40:31:
+                    d0:66:ae:56:7e:59:bb:92:14:ac:25:3e:d4:56:be:
+                    ef:ac:7c:44:e7:90:00:fc:9e:8e:d9:51:5a:35:74:
+                    63:05:3a:3d:6d:aa:e8:71:96:ba:7d:00:79:d8:da:
+                    0d:37:f3:e1:3b:53:06:6d:e6:c9:72:8c:00:a4:b3:
+                    a4:ab:65:e6:61:7e:c3:70:af:77:a3:e6:0c:78:cd:
+                    a0:bc:4d:23:0a:13:27:8b:c7:48:36:d4:72:2e:ba:
+                    80:90:89:5a:e2:d8:05:b4:06:cd:84:19:5e:54:b2:
+                    5a:f1:6c:ef:e1:7c:d7:72:49:f9:ee:9a:58:f5:3f:
+                    e4:44:df:cf:a0:54:63:19:7c:dc:a4:17:a0:2a:2e:
+                    53:5b:ba:a6:9f:7d:2b:b8:c4:51:fa:00:49:c3:ea:
+                    73:f7:78:f4:03:c4:f2:b7:0d:ee:60:af:d0:42:d5:
+                    71:4b:b2:40:13:7b:1a:7f:fa:d8:fc:d9:62:b8:54:
+                    1c:8f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                4F:1A:8A:DB:8F:42:B3:98:9A:A0:6D:D8:CD:79:DF:2C:01:20:D3:1E
+            X509v3 Authority Key Identifier: 
+                keyid:E2:BB:FA:DF:57:60:19:43:25:55:76:9B:21:3B:8E:F3:3E:80:55:6F
+                DirName:/CN=savinkin.org
+                serial:2D:6C:86:BE:99:F0:F5:4A:6A:CD:54:A2:96:7E:D6:2F:19:5D:C9:BC
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        1b:15:bc:a5:5a:6f:15:d3:df:97:34:22:97:2f:39:79:1a:15:
+        61:ab:ee:c5:74:04:8f:ec:05:76:71:9f:a8:d3:19:97:46:94:
+        f5:5c:09:92:90:4e:76:3d:06:4b:a0:63:97:5f:d0:48:3e:bf:
+        44:82:6a:9a:c8:1e:04:69:8f:79:f0:26:23:37:a3:74:0a:5e:
+        b9:96:8f:c6:eb:fe:33:62:50:05:62:3d:0e:8c:65:53:7a:aa:
+        1f:56:16:47:42:c8:37:db:2d:ce:71:e0:12:e2:f2:f3:bc:27:
+        99:c1:17:c6:27:c9:87:5f:07:e2:6d:0d:06:08:b5:bd:d6:d4:
+        06:47:c2:00:e4:cf:bd:79:2c:d2:d7:23:9b:2e:cd:40:89:db:
+        00:93:98:8c:86:ad:5e:e6:53:a8:d5:e6:05:71:eb:b8:c4:5d:
+        d4:b9:28:85:61:11:c1:f4:bb:25:18:01:e9:6c:9d:eb:0b:23:
+        a7:28:b4:29:a4:22:5a:ab:03:6d:b5:f8:c7:47:1c:ec:b8:3c:
+        29:18:a3:32:12:b3:e5:31:84:41:c1:ca:83:b0:5a:c2:96:6d:
+        7a:9f:26:59:bf:e6:ab:a0:c8:01:57:98:e3:5e:25:f4:68:e6:
+        0d:ec:c7:00:4b:e9:02:f9:fc:f7:41:80:0f:e3:b1:8c:3f:16:
+        6b:4c:a0:38
+-----BEGIN CERTIFICATE-----
+MIIDVDCCAjygAwIBAgIRAJTUbL1b+G2YOiKf+Mvmhc4wDQYJKoZIhvcNAQELBQAw
+FzEVMBMGA1UEAwwMc2F2aW5raW4ub3JnMB4XDTI0MDcwODE4MTM0N1oXDTI2MTAx
+MTE4MTM0N1owDjEMMAoGA1UEAwwDZHZzMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAwS0xGwvtfWNgyPv7XXkPU8FirJhftU/dpTTasm0y0qox21Mtji9O
+VS8UgspyWZcbhFB15FJHSysqfBmbfzSyLeSteB207UFpQDHQZq5Wflm7khSsJT7U
+Vr7vrHxE55AA/J6O2VFaNXRjBTo9barocZa6fQB52NoNN/PhO1MGbebJcowApLOk
+q2XmYX7DcK93o+YMeM2gvE0jChMni8dINtRyLrqAkIla4tgFtAbNhBleVLJa8Wzv
+4XzXckn57ppY9T/kRN/PoFRjGXzcpBegKi5TW7qmn30ruMRR+gBJw+pz93j0A8Ty
+tw3uYK/QQtVxS7JAE3saf/rY/NliuFQcjwIDAQABo4GjMIGgMAkGA1UdEwQCMAAw
+HQYDVR0OBBYEFE8aituPQrOYmqBt2M153ywBINMeMFIGA1UdIwRLMEmAFOK7+t9X
+YBlDJVV2myE7jvM+gFVvoRukGTAXMRUwEwYDVQQDDAxzYXZpbmtpbi5vcmeCFC1s
+hr6Z8PVKas1UopZ+1i8ZXcm8MBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsGA1UdDwQE
+AwIFoDANBgkqhkiG9w0BAQsFAAOCAQEAGxW8pVpvFdPflzQily85eRoVYavuxXQE
+j+wFdnGfqNMZl0aU9VwJkpBOdj0GS6Bjl1/QSD6/RIJqmsgeBGmPefAmIzejdApe
+uZaPxuv+M2JQBWI9DoxlU3qqH1YWR0LIN9stznHgEuLy87wnmcEXxifJh18H4m0N
+Bgi1vdbUBkfCAOTPvXks0tcjmy7NQInbAJOYjIatXuZTqNXmBXHruMRd1LkohWER
+wfS7JRgB6Wyd6wsjpyi0KaQiWqsDbbX4x0cc7Lg8KRijMhKz5TGEQcHKg7BawpZt
+ep8mWb/mq6DIAVeY414l9GjmDezHAEvpAvn890GAD+OxjD8Wa0ygOA==
+-----END CERTIFICATE-----
